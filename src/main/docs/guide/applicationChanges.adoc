@@ -1,0 +1,8 @@
+Now there are a few things we need to update in order for our application to run on Heroku.
+Add the following to our build file
+
+[source, groovy]
+.build.gradle
+----
+include::{sourceDir}/build.gradle[indent=0,lines=87..109]
+----

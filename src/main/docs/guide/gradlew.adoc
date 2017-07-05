@@ -1,0 +1,3 @@
+To use `gradlew` with heroku you must also include the `gradle/wrapper/gradle-wrapper.jar` and
+the associated `gradle/wrapper/gradle-wrapper.properties`. So make sure that your project
+has a `gradle` directory with a `wrapper` sub-directory and it contains the above files.
