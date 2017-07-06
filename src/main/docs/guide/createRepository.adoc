@@ -22,3 +22,8 @@ that was just created from the `git clone`.
 TIP: Copy everything that is in the complete folder (NOT the complete folder itself) and
 paste it into you're new folder `still-hollows-47775`. (The build folder can be ommited from
 the copy)
+
+To view that your app was created successfully on Heroku just go view your dashboard and
+there should be a new entry.
+
+image::createdApp.png[]

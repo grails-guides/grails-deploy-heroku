@@ -2,11 +2,11 @@ gettingStarted:
   title: Getting Started
   requirements: What you will need
   howto: How to complete the guide
-setupPWS:
+setupHeroku:
   title: Setup Heroku Account and install Heroku CLI
   login: Login to Heroku from terminal
   createRepository: Create new Heroku App
-  gradlew: Setting up `gradlew`
+  gradlew: Setting up gradlew
   gitIgnore: Making sure you only push the changes you want
 applicationChanges:
   title: What to update for deployment
@@ -15,5 +15,7 @@ testingLocally:
   title: Testing Locally
 deployWithGradle:
   title: Deploy on Heroku with Gradle
+viewLogs:
+  title: Viewing your logs
 helpWithGrails:
   title: Do you need help with Grails?
