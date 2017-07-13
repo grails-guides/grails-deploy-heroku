@@ -1,5 +1,5 @@
-At this point our application should be ready to deploy to Heroku proper. This can be done
-with some a few simple commands as follows from the top level project directory.
+At this point our application should be ready to deploy to Heroku proper. This can
+be done with a few simple commands as follows from the top level project directory.
 
 [source, bash]
 ----
